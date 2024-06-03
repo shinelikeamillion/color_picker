@@ -113,6 +113,7 @@ let tempCanvas;
 let image;
 
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+  if(message.type !== 'color_picker') return;
   image = new Image();
   image.src = message.image;
   image.onload = () => {
