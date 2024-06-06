@@ -11,4 +11,4 @@ It should look like this:
 
 [Have a problem ?](https://github.com/shinelikeamillion/color_picker/issues).
 
-[Give it a try]()
+[Give it a try](https://chromewebstore.google.com/detail/a-better-color-picker/bijodenmopfmmnheijmpaehdoaffilkd)
